@@ -1,0 +1,4 @@
+pinecone==6.0.2 
+pinecone-datasets==1.0.2 
+sentence-transformers==3.4.1 
+pinecone-notebooks==0.1.1
