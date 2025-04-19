@@ -1,0 +1,8 @@
+job:
+  env:
+    epochs: 10
+    model: bert
+  name: train_model
+  resources:
+    cpu: 4
+    memory: 16
